@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="txt_result_hint">Result</string>
+    <string name="btn6_cl">Clear</string>
+    <string name="btn5_mo">%</string>
+    <string name="btn4_d">/</string>
+    <string name="btn3_mult">*</string>
+    <string name="btn2_dif">-</string>
+    <string name="btn1_sum">+</string>
+</resources>
